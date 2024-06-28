@@ -17,12 +17,7 @@ Our YOLOv8s-based model revolutionizes stock market analysis by offering real-ti
 
 ## Detected Patterns
 
-Head and shoulders bottom\n
-Head and shoulders top
-M_Head
-StockLine
-Triangle
-W_Bottom
+['Head and shoulders bottom', 'Head and shoulders top', 'M_Head', 'StockLine', 'Triangle', 'W_Bottom']
 
 ## How to Get Started with the Model
 To begin using the YOLOv8s Stock Market Pattern Detection model on live trading video data, follow these steps:
