@@ -17,7 +17,7 @@ Our YOLOv8s-based model revolutionizes stock market analysis by offering real-ti
 
 ## Detected Patterns
 
-Head and shoulders bottom
+Head and shoulders bottom\n
 Head and shoulders top
 M_Head
 StockLine
