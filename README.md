@@ -2,7 +2,9 @@
 
 The YOLOv8s Stock Market Pattern Detection model is an advanced object detection system built on the YOLO framework, specifically designed to analyze real-time stock market trading videos. By automatically identifying and classifying various chart patterns as they form, this model provides traders and investors with timely insights to support informed decision-making. Fine-tuned on a diverse dataset, it achieves high accuracy in detecting stock market patterns during live trading scenarios. This innovative tool streamlines the chart analysis process, offering valuable assistance to financial professionals by automating the recognition of key market indicators in real-time video data.
 
-![](https://github.com/foduucom/Stockmarket-pattern-detection/blob/main/demo_prediction-result.mp4)
+## 📺 Demo Video
+
+Check out this [demo video](https://github.com/Priyal-0911/stock_pattern_detection/blob/fd9b0156d0c854a30cf4b307078c4d8c3648cb15/demo_prediction-result.mp4)
 
 ## Overview
 
