@@ -4,7 +4,7 @@ The YOLOv8s Stock Market Pattern Detection model is an advanced object detection
 
 ## 📺 Demo Video
 
-Check out this [demo video](https://github.com/Priyal-0911/stock_pattern_detection/blob/fd9b0156d0c854a30cf4b307078c4d8c3648cb15/demo_prediction-result.mp4)
+Check out this [demo video](https://github.com/Priyal-0911/stock_pattern_detection/blob/f83da9a19d6e44231be77f46f01c12a1e8f4affc/demo.gif)
 
 ## Overview
 
