@@ -27,8 +27,8 @@ To begin using the YOLOv8s Stock Market Pattern Detection model on live trading 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Priyal-0911/stock_pattern_detection.git
+cd stock_pattern_detection
 ```
 
 2. Install the required dependencies:
